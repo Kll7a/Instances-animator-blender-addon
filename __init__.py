@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Instances Animator",
-    "author": "ar7raveller",
+    "author": "Kll7a",
     "version": (2, 0, 0), # Final Stable Build
     "blender": (4, 2, 1),
     "location": "View3D > Sidebar > Instances Animator",
